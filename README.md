@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @some1damaged
+- 👋 Hi, I’m @kineticlabs.io
 - 👀 I’m interested in Machine Learning, Data Science, and Quantum Computing
 - 🌱 I’m currently learning all the above always
 - 💞️ I’m looking to collaborate on ...
